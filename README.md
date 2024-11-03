@@ -2,7 +2,7 @@ Threads is a micro light-weight monitoring system, which allow users to monitor 
 
 Threadss allow users to build their own monitoring layers, based of rules and hierarchy of parent and child relationships
 
-The system name is threads because that There is fair use of multithreading in the backend
+The system name is threads because that There is a fair use of multithreading in the backend
 
 requirments:
 postgres
