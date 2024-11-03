@@ -1,6 +1,6 @@
 Threads is a micro light-weight monitoring system, which allow users to monitor their services based of blackbox scripts.
 
-Threadss allow users to build their own monitoring layers, based of rules and hierarchy of parent and child relationships
+Threads allow users to build their own monitoring layers, based of rules and hierarchy of parent and child relationships
 
 The system name is threads because that There is a fair use of multithreading in the backend
 
