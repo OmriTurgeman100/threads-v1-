@@ -7,8 +7,8 @@ The system name is threads because that There is a fair use of multithreading in
 requirments:
   * postgres
   * node.js
-  * npm i will download the whole libaries
-python
+  * npm I, in order to download the whole node.js libaries
+  * python
   * requests libary
   * psycopg
   * flask
