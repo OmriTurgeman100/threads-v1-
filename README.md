@@ -5,8 +5,8 @@ Threadss allow users to build their own monitoring layers, based of rules and hi
 The system name is threads because that There is a fair use of multithreading in the backend
 
 requirments:
-postgres
-node.js
+  * postgres
+  * node.js
   * npm i will download the whole libaries
 python
   * requests libary
